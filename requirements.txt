@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+
+.\.venv\Scripts\Activate
+streamlit run stream-smoking.py
